@@ -4,7 +4,7 @@
 A Classification model to predict whether or not a trainee will seek employment with the company or search for a job else where.
 
 ### Introduction
-The dataset I’m using is based off a Data Science company’s course data obtained through a series of trainings the company offers. Once someone finishes these training courses, the company wants to know if they will want to apply for an open position, or if the trainee wants to look for a job elsewhere. The data contains information such as demographic, education, location, experience, and the like. **
+The dataset I’m using is based off a Data Science company’s course data obtained through a series of trainings the company offers. Once someone finishes these training courses, the company wants to know if they will want to apply for an open position, or if the trainee wants to look for a job elsewhere. The data contains information such as demographic, education, location, experience, etc.
 
 Hiring talent can be a costly endeavor given all the different aspects that goes into it: labor, contracts, vendors, recruiting firms or website subscriptions, all these can pile up to a nice chunk of change. According to Glassdoor.com, the average cost of hiring an employee is $4,000! If we can help identify potential candidates, we have the potential of saving quite a large sum of money.
 
